@@ -1,0 +1,52 @@
+.brd {
+    
+    display: flex;
+    font-display: center;
+    flex-direction: column;
+    content: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 430px;
+    width: 183px;
+    border: 7px double black; 
+    background: yellow; 
+    padding: 10px;
+    border-radius: 12px; 
+   }
+.kartinka {
+    margin-bottom: 20px;
+    width: 180px;
+    
+}
+.login {
+    
+    width: 178px;
+    margin-left: ;
+    height: 50px;
+    background: red;
+    color: white;
+    border-radius: 12px;
+    margin-bottom: 10px;
+}
+.vvodlog {
+    margin-bottom: 20px;
+    
+    
+}
+.passname {
+  
+    margin-left: ;
+    width: 178px;
+    height: 50px;
+    background: red;
+    color: white;
+    border-radius: 12px;
+    margin-bottom: 10px;
+}
+.vvodpass {
+    
+}
+.nameuser {
+
+    margin-top: 10px;
+}
